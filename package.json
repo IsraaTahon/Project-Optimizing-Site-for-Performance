@@ -1,0 +1,19 @@
+{
+  "name": "project-optimizing-site-for-performance",
+  "version": "1.0.0",
+  "description": "\"Treehouse project Site Optimization\"",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "\"Treehouse\"",
+    "\"Frontend\""
+  ],
+  "author": "Israa Tahon",
+  "license": "ISC"
+}
